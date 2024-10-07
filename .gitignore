@@ -1,3 +1,11 @@
+# Files from the repository
+Cattle Breeds
+brown_cow.jpg
+cow_image.jpg
+red_cow.jpg
+env
+*.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
